@@ -1,0 +1,21 @@
+{
+  "name": "grumpy-bot",
+  "version": "0.0.1",
+  "description": "Fucked up grumpy discord bot",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/llachance/grumpy-bot.git"
+  },
+  "author": "",
+  "license": "BSD-2-Clause",
+  "bugs": {
+    "url": "https://github.com/llachance/grumpy-bot/issues"
+  },
+  "dependencies": {
+    "discord.js": "git://github.com/macdja38/discord.js#v8-es6"
+  }
+}
